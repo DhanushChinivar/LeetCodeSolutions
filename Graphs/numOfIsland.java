@@ -179,7 +179,7 @@ class Solution {
     }
 }
 /*
-We use a Union-Find data structure to manage "connected components."
+We use a Union-Find data structure to manage 'connected components'.
 Each land cell ('1') is initially considered its own island.
 We connect (or "union") neighboring land cells into a single component (island) whenever they are adjacent.
 
