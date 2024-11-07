@@ -1,3 +1,22 @@
+/*
+I have chosen to submit my sample code with a focus on an algorithmic and analytical approach, highlighting DSA (Data Structures and Algorithms) problems,
+ where the underlying problem-solving skills are truly tested, rather than on React JS or CSS-related work.
+
+From my understanding 
+
+Rome2Rio is a comprehensive trip planning website that collects data from a variety of transportation providers, such as airlines, trains, buses, ferries,
+and car rentals. It uses algorithms to search and compare numerous travel routes and possibilities, giving consumers a variety of options for their trips,
+ the platform most likely uses a combination of:
+
+Route Optimisation Algorithms: Determine the most efficient travel routes for different modes of transportation.
+Search and Filtering Algorithms: Allow users to specify preferences and constraints, which then refine search results accordingly.
+Pricing Algorithms: Compare prices from several providers and present the best options.
+
+On considering this I decided to work on DFS Problem statement.
+
+*/
+
+
 Given an m x n 2D binary grid grid which represents a map of '1's (land) and '0's (water), return the number of islands.
 An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
 
